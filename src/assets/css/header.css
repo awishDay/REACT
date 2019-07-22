@@ -1,0 +1,14 @@
+.header_top {
+    width: 100%;
+    background: #2e3434;
+    height: .58rem;
+    border-top: 0.01rem solid #727675;
+    border-bottom: 0.01rem solid #727675;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.header_top ul li a {
+    color: #fff;
+}

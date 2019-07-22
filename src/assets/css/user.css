@@ -1,0 +1,34 @@
+.User {
+    padding-top: .8rem;
+    text-align: center;
+}
+
+.User_body {
+    padding: .64rem .64rem .46rem .64rem;
+}
+
+.User_body-top img {
+    width: 3.34rem;
+    height: 3.34rem;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.User_body-top h3 {
+    font: .26rem/.7rem "";
+}
+
+.User_body-top span {
+    color: #b9b9b9;
+}
+
+.User_body-top p {
+    margin-top: .16rem;
+    font: .2rem/.36rem "";
+    color: #b9b9b9;
+}
+
+.User_body ul {
+    display: flex;
+    justify-content: space-between;
+}

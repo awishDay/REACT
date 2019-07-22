@@ -1,0 +1,38 @@
+.Column_header {
+    width: 100%;
+    height: .8rem;
+    background: #2e3434;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: .16rem .32rem 0 .46rem;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.Column_header-left {
+    width: .5rem;
+    height: .5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Column_header-left img {
+    width: .2rem;
+    height: .3rem;
+    margin-top: .06rem;
+}
+
+.Column_header-left i {
+    display: inline-block;
+    width: .02rem;
+    height: .4rem;
+    background: red;
+}
+
+.Column_header-right img {
+    width: .5rem;
+    height: .5rem;
+}

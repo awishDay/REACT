@@ -1,0 +1,39 @@
+.Detail_body {
+    padding-top: .8rem;
+}
+
+.detail-detail {
+    padding: .22rem .32rem;
+}
+
+.Detail_body-top {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.Detail_body-top img {
+    width: .36rem;
+    height: .36rem;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: .18rem;
+}
+
+.Detail_body-top h3 {
+    font: .24rem/.28rem "";
+    color: black;
+}
+
+.Detail_body-top h3 i {
+    display: block;
+}
+
+.Detail_body-top h3 span {
+    display: block;
+}
+
+.Detail_body-center img {
+    margin-top: .3rem;
+    width: 5.4rem;
+    height: 3.5rem;
+}

@@ -1,0 +1,65 @@
+.Cell {
+    padding: .34rem;
+    font: .2rem/.34rem "";
+}
+
+.Cell_top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Cell_top-left i {
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.Cell_top-left i img {
+    width: .44rem;
+    height: .44rem;
+}
+
+.Cell_top-left span {
+    margin-left: .1rem
+}
+
+.Cell_top-right {
+    color: #fe9403;
+}
+
+.Cell_top-right i {
+    display: inline-block;
+    width: .05rem;
+    height: .34rem;
+    background: #fe9403;
+    margin-left: .12rem;
+    vertical-align: middle;
+}
+
+.Cell_bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Cell_bottom-left h3 {
+    width: 3.7rem;
+    font: .24rem/.36rem "";
+    color: black;
+}
+
+.Cell_bottom-left p {
+    font: .2rem/.26rem "";
+    color: #a2a2a2;
+    width: 3.7rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+.Cell_bottom-right img {
+    width: 1.73rem;
+    height: 1.33rem;
+}

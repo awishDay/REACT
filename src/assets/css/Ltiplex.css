@@ -1,0 +1,35 @@
+.Ltiplex {
+    padding: .55rem .16rem .3rem .16rem;
+    box-sizing: border-box;
+    height: 2.14rem;
+    border-bottom: 1px solid pink;
+    width: 6.4rem;
+}
+
+.Ltiplex h3 {
+    font: .3rem/.52rem "";
+}
+
+.Ltiplex_top {
+    font: .24rem/.52rem "";
+}
+
+.Ltiplex_top img {
+    width: .2rem;
+    height: .3rem;
+}
+
+.Ltiplex_bottom-left {
+    width: 1.18rem;
+    font: .24rem/.4rem "";
+    background: #00a0e8;
+    color: #fff;
+    text-align: center;
+    border-radius: .05rem;
+    margin-right: .06rem;
+}
+
+.Ltiplex_bottom {
+    display: flex;
+    justify-content: flex-start;
+}
